@@ -1,7 +1,7 @@
 node {
     
     stage "first"
-        echo "42"
+        echo "422"
     stage "slow"    
         sleep 90
 }       
