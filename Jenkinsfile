@@ -1,4 +1,4 @@
 node {
  
- sh "echo first"
+ sh "echo second"
 }
